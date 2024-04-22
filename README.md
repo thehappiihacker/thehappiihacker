@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Home Lab </b>
-  - [Active Directory Lab]()
+  - [Detection And Monitoring Lab]()
 
 <h2>📺 Certifications </h2>
 
