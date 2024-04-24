@@ -7,8 +7,11 @@
 
 <h2>📺 Certifications </h2>
 
+- [CompTIA A+]()
+- [CompTIA Network+]()
 - [CompTIA Security+]()
-
+- [CompTIA Project+]()
+- [ITIL V4]()
 
 <h2> 🤳 Connect with me:</h2>
 
